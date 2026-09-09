@@ -477,6 +477,7 @@ button, input {
   .archive-list em { display: none; }
   .footer-bottom { flex-direction: column; gap: 8px; }
 }
+
 /* Force images to display and hide placeholder graphics */
 .hero-image img,
 .card-art img {
@@ -484,10 +485,6 @@ button, input {
   height: 100%;
   object-fit: cover;
   display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 10;
 }
 
 .hero-image:before,
