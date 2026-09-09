@@ -1,7 +1,0 @@
- assets folder for Ifa Institute images
-
-Contains:
-- images/ - hero and card images
-- css/ - stylesheets
-
-Use absolute paths /assets/images/... for GitHub Pages
